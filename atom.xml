@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://somehow6.github.io</id>
     <title>浩桑的个人站</title>
-    <updated>2021-01-07T18:08:47.293Z</updated>
+    <updated>2021-01-25T12:03:50.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://somehow6.github.io"/>
     <link rel="self" href="https://somehow6.github.io/atom.xml"/>
@@ -10,27 +10,6 @@
     <logo>https://somehow6.github.io/images/avatar.png</logo>
     <icon>https://somehow6.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 浩桑的个人站</rights>
-    <entry>
-        <title type="html"><![CDATA[工程制图学习心得（一）(转自本人知乎)]]></title>
-        <id>https://somehow6.github.io/post/gong-cheng-zhi-tu-xue-xi-xin-de-yi/</id>
-        <link href="https://somehow6.github.io/post/gong-cheng-zhi-tu-xue-xi-xin-de-yi/">
-        </link>
-        <updated>2021-01-07T17:29:46.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://somehow6.github.io/post-images/1610042532548.jpg" alt="" loading="lazy">学习一个东西，首先要搞明白：</p>
-<p>1.这门知识的来龙去脉</p>
-<p>2.这门知识需要我们具备哪些素养，掌握哪些技能，最后达到怎样的效果</p>
-<p>3.这门知识应该怎样学</p>
-<p>根据百度百科工程制图 百度百科</p>
-<p>以及我的理解：</p>
-<p>1.工图主要是实际工程中工程师交流的标准，或者说工程师间的“语言”</p>
-<p>2.有第一点可知，制图最根本的是要符合相关标准。</p>
-<p>而且制图本质就是把立体的东西转化成易读的、易于交流的二维图像。</p>
-<p>所以，我们一是要有良好的空间想象能力，二是要有条理分析的能力，我们老师一直强调的就是尽量不要去想空间形状，而是要熟悉标准化的分析过程以及对各种情况所采取的相应的方法。（因为有时候立体图很复杂就不好想，且容易漏画多画）。</p>
-<p>3.由前两点可知，我们首先要多练习，多实践，记住相应的标准。</p>
-<p>二是要多锻炼空间想象能力，多思考立体与投影间的关系。</p>
-<p>三是熟练的掌握分析的步骤，以及各种问题的应对策略。（个人认为第三步很重要）</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://somehow6.github.io/post/about/</id>
